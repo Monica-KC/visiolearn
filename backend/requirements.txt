@@ -1,0 +1,9 @@
+faiss-cpu 
+tf-keras
+sentence-transformers
+PyMuPDF
+fastapi
+uvicorn
+langchain-community
+pyngrok
+python-dotenv 
