@@ -32,7 +32,7 @@ The application is developed using Unity for the AR experience, while the RAG bo
 ### Steps to Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/tessara77/visiolearn.git
+    git clone https://github.com/Monica-KC/visiolearn.git
     cd visiolearn
     ```
 
